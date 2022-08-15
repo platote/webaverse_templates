@@ -1,0 +1,15 @@
+{
+    "name" : "vehicle template",
+    "start_url" : "index.js",
+    "components" : [
+        {
+            "key" : "sit", 
+            "value" : {
+                "subtype": "saddle",
+                "sitOffset": [0, 0.5, 0],
+                "speed": 0.02,
+                "damping": 0.99
+            }
+        }
+    ]
+}
