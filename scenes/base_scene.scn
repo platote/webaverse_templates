@@ -30,14 +30,6 @@
         0,
         0
       ],
-      "start_url": "/custom_assets/vehicle_template/"
-    },
-    {
-      "position": [
-        0,
-        0,
-        0
-      ],
       "physics": true,
       "start_url": "/custom_assets/environment_template/",
       "dynamic": false
